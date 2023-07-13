@@ -1,0 +1,5 @@
+[DEFAULT]
+dcm2niix_path = ./dcm2niix/dcm2niix.exe
+input_dir = I://NKTdata
+output_dir = ./output/
+list_path = NKT.csv
